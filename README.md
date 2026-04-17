@@ -1,4 +1,4 @@
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](PASTE_LINK_HERE)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SVBJardim/TriSem-LLM/blob/main/TriSem_LLM.ipynb)
 
 # TriSem-LLM: Multi-Criteria Semantic Screening of Scientific Articles
 
