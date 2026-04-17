@@ -1,0 +1,11 @@
+pymupdf
+pandas
+numpy
+matplotlib
+seaborn
+torch
+sentence-transformers
+transformers
+tqdm
+nltk
+requests
