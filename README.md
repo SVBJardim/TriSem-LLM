@@ -1,3 +1,5 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](PASTE_LINK_HERE)
+
 # TriSem-LLM: Multi-Criteria Semantic Screening of Scientific Articles
 
 ## Overview
