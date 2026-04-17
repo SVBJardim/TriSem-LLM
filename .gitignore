@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignore PDFs and large files
+data/pdfs/
+data/full_texts/
+data/pdfs_classificados/
+
+# Ignore API keys / secrets
+.env
+
+# Notebook checkpoints
+.ipynb_checkpoints/
